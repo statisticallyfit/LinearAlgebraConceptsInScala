@@ -1,0 +1,10 @@
+.idea
+target/
+.ivy
+.project
+project/.boot/
+project/.sbtboot/
+project/.ivy/
+project/project/
+project/target/
+src/main/scala/org/fp/concepts/ek.wiki
